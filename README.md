@@ -13,4 +13,5 @@ This app is a personal portfolio developed using Flutter, a powerful framework t
 - Education: Highlight educational background and qualifications.
 - Contact: Provide ways for others to get in touch, such as email, LinkedIn, GitHub, or other social media
 ## Screenshots
+![image](https://github.com/user-attachments/assets/53f0c46f-8755-4aab-bbad-d4a54135c5c1)
 
